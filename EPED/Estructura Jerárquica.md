@@ -1,0 +1,1 @@
+Son [[Colección]] que  no son lineales

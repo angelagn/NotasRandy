@@ -1,0 +1,219 @@
+{
+  "main": {
+    "id": "09248bc33ec1c323",
+    "type": "split",
+    "children": [
+      {
+        "id": "1b29916c1fdb1b32",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1f6707c19492b621",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Android Studio.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c447d860bf819140",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WEB/HTML5.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f60f51c5a2c137a3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WEB/HTML5.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e007277ca09a98fa",
+    "type": "split",
+    "children": [
+      {
+        "id": "4fe9a4e6500789bd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8f355f8ea2770887",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "db14632e810dd951",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "html",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d0fa37218900b896",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "926ac547aac18a3e",
+    "type": "split",
+    "children": [
+      {
+        "id": "af688a09d9df36f3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e6c29fd88bdffcbf",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "WEB/HTML5.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cf217133dabb8e10",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "WEB/HTML5.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cf3404a0a2cf3ea3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "2143904760d4d705",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "WEB/HTML5.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir quick switcher": false,
+      "graph:Abrir vista de gráfico": false,
+      "canvas:Create new canvas": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "daily-notes:Abrir la nota de hoy": false
+    }
+  },
+  "active": "f60f51c5a2c137a3",
+  "lastOpenFiles": [
+    "Android Studio.md",
+    "WEB/Web.md",
+    "WEB/HTML5.md",
+    "EPED/Colección.md",
+    "WEB/JavaScript.md",
+    "AlgoritmoScriptAumentarSueldo.png",
+    "AlgoritmoScriptCalculaMAyor3numeros.png",
+    "AlgoritmoScriptCalcularNotaMedia.png",
+    "WEB/Front End.md",
+    "Arquitectura Von Newman.md",
+    "IC1",
+    "Kotlin.md",
+    "WEB/CSS.md",
+    "Pasted image 20230531112358.png",
+    "CoserPantallasKotlin.png",
+    "Secuencia Implementar.md",
+    "EPED/Colas.md",
+    "EPED/Pilas.md",
+    "EPED/Lista.md",
+    "Untitled.md",
+    "SecuenciasClearYContains.png",
+    "SecuenciasImplementarConstructores.png",
+    "SecuenciaImplementacionMetodosAux.png",
+    "SdecuenciaIterador.png",
+    "SecuenciaImplementarNodo.png",
+    "Coste - Algoritmos Iterativos.md",
+    "EPED/Ordenes de Complejidad.md",
+    "EPED/Métricas de análisis.md",
+    "Algoritmos.md",
+    "EPED/TAD.md",
+    "EPED/Programación Recursiva.md",
+    "EPED/Flujo  de Información.md",
+    "Metodologías ágiles.md",
+    "Lenguaje Programacion.md",
+    "Java.md",
+    "Markdown.md",
+    "WEB",
+    "Untitled.canvas",
+    "POO",
+    "EPED/Untitled.canvas",
+    "EPED"
+  ]
+}

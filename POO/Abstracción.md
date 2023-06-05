@@ -1,0 +1,2 @@
+En [[POO]] este concepto hace referencia a concentrarse en los aspectos importantes del [[Objeto]] más no en su implementación (detalles que para el uso del objeto son irrelevantes)  
+La abstracción se utiliza para crear objetos relacionados con el mundo real que cuenten con propiedades tambien relacionados con el mundo real

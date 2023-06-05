@@ -1,0 +1,1 @@
+Es una plataforma para crear aplicaciones #Moviles y [[Web]] 

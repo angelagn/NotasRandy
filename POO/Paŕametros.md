@@ -1,0 +1,1 @@
+En [[POO]] están clasificados en tipos, los tipos son los diferentes valores que puede tomar un parametro
