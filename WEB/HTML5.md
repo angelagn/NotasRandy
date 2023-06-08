@@ -73,3 +73,8 @@ para que funcione hay que citar el link de bootstrap
 Se sube el archivo solo y la web nos dice los errores que hay
 
 [https://validator.w3.org/](https://validator.w3.org/)
+
+Se puede crear la #APK de la pagina web desde pagina web
+https://volt.build/plan/
+
+

@@ -72,3 +72,38 @@ Tampermonkey bloquea scripts
 #Rutas 
 - Rutas absolutas: la ruta completa
 - Rutas relativas: ruta dentro del proyecto
+
+## Dominios
+Más profesionales de pago, se puede asociar el dominio con el servidos
+https://www.ionos.com/
+
+
+## Servidor
+https://x10hosting.com/panel/services/77210
+
+aguzman
+angelitA*#1
+
+- ir a panel de control, allí me lleva a un dashboard
+
+Pasos para subir la #Web al #Servidor:
+-  En los 4 puntos ir a System Info and files.
+-  File manager
+- Public html
+- Allí creamos una carpeta y alojamos la pagina web
+- Luego abrimos el dominio con (/) y el nombre de la carpeta así
+- https://aguzman.x10.mx/WebExamen/index.html
+
+
+## Buscar errores en archivo [[HTML5]]
+
+[https://validator.w3.org/](https://validator.w3.org/)
+
+- Se carga el archivo en la web y te muestra los errores que encuentra
+
+
+# Juegos dibujar con ia
+https://www.autodraw.com/
+
+https://quickdraw.withgoogle.com/
+

@@ -35,11 +35,11 @@ Si hay problema con el #SDK [[SDK]]
 
 
 ## Tools 
-sdk mamnager : para descargar otras versiones
+sdk manager : para descargar otras versiones
 Device manager:
 
 ## Otras opciones
-Genymotion: es una compañia que hace lo mismo que android estudio, se descarga y  crea la maquina virtual para desarrollar apps para dispositivos android
+Genymotion: es una compañía que hace lo mismo que android estudio, se descarga y  crea la maquina virtual para desarrollar apps para dispositivos android
 
 
 https://www.genymotion.com/

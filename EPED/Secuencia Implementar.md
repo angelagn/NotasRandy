@@ -34,7 +34,7 @@ Con esta clase NO es necesario implementar otra clase con iteratorIF, esta clase
 
 
 
-![[SdecuenciaIterador.png]]
+![[SecuenciaIterador.png]]
 
 
 ### Metodos auxiliares

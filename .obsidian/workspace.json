@@ -4,47 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "1b29916c1fdb1b32",
+        "id": "9d5c924b4c97161c",
         "type": "tabs",
         "children": [
           {
-            "id": "1f6707c19492b621",
+            "id": "bb79a56b63a5843a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Android Studio.md",
+                "file": "IC1/Arquitectura Von Newman.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "c447d860bf819140",
+            "id": "576a508633674cc2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WEB/HTML5.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f60f51c5a2c137a3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "WEB/HTML5.md",
+                "file": "Memoria Caché Mce.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -73,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "html",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,12 +78,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 206.5
   },
   "right": {
     "id": "926ac547aac18a3e",
@@ -111,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WEB/HTML5.md",
+                "file": "Memoria Caché Mce.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WEB/HTML5.md",
+                "file": "Memoria Caché Mce.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WEB/HTML5.md"
+                "file": "Memoria Caché Mce.md"
               }
             }
           }
@@ -172,44 +159,46 @@
       "daily-notes:Abrir la nota de hoy": false
     }
   },
-  "active": "f60f51c5a2c137a3",
+  "active": "576a508633674cc2",
   "lastOpenFiles": [
-    "Android Studio.md",
+    "IC1/Arquitectura Von Newman.md",
+    "Memoria Caché Mce.md",
+    "Markdown.md",
     "WEB/Web.md",
     "WEB/HTML5.md",
-    "EPED/Colección.md",
-    "WEB/JavaScript.md",
-    "AlgoritmoScriptAumentarSueldo.png",
-    "AlgoritmoScriptCalculaMAyor3numeros.png",
-    "AlgoritmoScriptCalcularNotaMedia.png",
-    "WEB/Front End.md",
-    "Arquitectura Von Newman.md",
-    "IC1",
-    "Kotlin.md",
-    "WEB/CSS.md",
-    "Pasted image 20230531112358.png",
-    "CoserPantallasKotlin.png",
-    "Secuencia Implementar.md",
-    "EPED/Colas.md",
-    "EPED/Pilas.md",
-    "EPED/Lista.md",
-    "Untitled.md",
-    "SecuenciasClearYContains.png",
-    "SecuenciasImplementarConstructores.png",
-    "SecuenciaImplementacionMetodosAux.png",
-    "SdecuenciaIterador.png",
-    "SecuenciaImplementarNodo.png",
-    "Coste - Algoritmos Iterativos.md",
-    "EPED/Ordenes de Complejidad.md",
-    "EPED/Métricas de análisis.md",
-    "Algoritmos.md",
-    "EPED/TAD.md",
-    "EPED/Programación Recursiva.md",
-    "EPED/Flujo  de Información.md",
-    "Metodologías ágiles.md",
-    "Lenguaje Programacion.md",
+    "BusArbitrajeDistribuido.png",
+    "POO/Array.md",
+    "Pasted image 20230605163029.png.md",
+    "Pasted image 20230605163002.png",
+    "Pasted image 20230605163029.png",
+    "Untitled 2.md",
+    "POO/Signatura o firma.md",
+    "POO/Bucle.md",
+    "POO/Diagrama.md",
+    "POO/LIFO.md",
+    "POO/Modularización.md",
+    "POO/Objeto.md",
+    "POO/POO.md",
+    "Arb.md",
+    "AngularJS.md",
+    "Back End.md",
+    "BBDD.md",
+    "Condicional.md",
+    "Estado.md",
+    "Git.md",
+    "GitHub.md",
+    "Humanismo.md",
+    "IDE.md",
     "Java.md",
-    "Markdown.md",
+    "WEB/EstructuraGeneralDeUnaWeb.png",
+    "MOVILES",
+    "WEB/AlgoritmoScriptAumentarSueldo.png",
+    "WEB/AlgoritmoScriptCalculaMAyor3numeros.png",
+    "WEB/AlgoritmoScriptCalcularNotaMedia.png",
+    "IC1",
+    "Pasted image 20230531112358.png",
+    "MOVILES/CoserPantallasKotlin.png",
+    "EPED/SecuenciasClearYContains.png",
     "WEB",
     "Untitled.canvas",
     "POO",
