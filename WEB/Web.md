@@ -1,18 +1,18 @@
-Todas las webs indexadas, ideberg de la web, [[HTML5]], [[CSS]] , [[JavaScript]]
-La navegacion privada intenta que la info no se quede almacenada, toda la comunicación de Europa a America, todo se graba
+Todas las webs indexadas, iceberg de la web, [[HTML5]], [[CSS]] , [[JavaScript]]
+La navegación privada intenta que la info no se quede almacenada, toda la comunicación de Europa a América, todo se graba
 lenguaje [[PHP]] para sacarle más provecho a las páginas web
 #IDE 
 
 ## Surface web
 
->- Chrome : google sabe que eres tu así navegues en modo incognito
+>- Chrome : google sabe que eres tu así navegues en modo incógnito
 >- Amazon
 >- BBC
 >- Facebook
 
 ## Deep web
 
-Cuando hay que poner ususario y contraseña es la deep web, cuando te logueas es #DeepWeb la deep web no está indexada en google para proteger la info privada. 
+Cuando hay que poner usuario y contraseña es la deep web, cuando te logueas es #DeepWeb la deep web no está indexada en google para proteger la info privada. 
 paginas web no indexadas. 
 Dato protegido dentro de una [[BBDD]]
 
@@ -26,7 +26,7 @@ Waap
 
 ## Dark web
 
-Menos control, te envia virus para ver que eres capaz de desinfectarte y poder acceder
+Menos control, te envía virus para ver que eres capaz de desinfectarte y poder acceder
 hay que configurar el equipo para que pueda entrar y desactivar javascript
 Para entrar #DarkWeb todos los archivos son formato onion. 
 las web son en codigo que se interpreta
@@ -50,10 +50,10 @@ paginas web que convierten la pagina web en apk para diferentes plataformas andr
 ## Proyectos oficiales, pagar suscripción y la web te protege los derechos
 
 1. se registra la app
-2. te dan un codigo
+2. te dan un código
 
 ### Otras opciones para no subir a la pagina que convierte y genera el instalador
-programar en codigo nativo(yo creo la apk)
+programar en código nativo(yo creo la apk)
 apk es el instalador
 
 ## Estructura mínima de web para convertir en la pagina web

@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "b9683d31b3274bb5",
+            "id": "48b4c31341820b77",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IC1/Memoria Caché Mce.md",
+                "file": "FSD/Magnitud + signo.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "apk",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -82,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 385.5
+    "width": 299.5
   },
   "right": {
     "id": "926ac547aac18a3e",
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IC1/Memoria Caché Mce.md",
+                "file": "FSD/Magnitud + signo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IC1/Memoria Caché Mce.md",
+                "file": "FSD/Magnitud + signo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IC1/Memoria Caché Mce.md"
+                "file": "FSD/Magnitud + signo.md"
               }
             }
           }
@@ -159,45 +159,45 @@
       "daily-notes:Abrir la nota de hoy": false
     }
   },
-  "active": "8f355f8ea2770887",
+  "active": "48b4c31341820b77",
   "lastOpenFiles": [
-    "MceFuncionDeCorrespondencia.png",
-    "MceFuncionamiento.png",
-    "IC1/Arquitectura Von Newman.md",
-    "ImplementarLIstasInsercion.png",
-    "ImplementarListasAccesoYModificacion.png",
-    "EPED/Lista.md",
-    "ImplementarListasConstructor.png",
-    "EPED/Colección.md",
-    "Unidad de memoria.md",
+    "Untitled.md",
+    "FSD/Magnitud + signo.md",
+    "FSD/C1.md",
+    "WEB/Web.md",
     "IC1/Memoria Caché Mce.md",
+    "IC1/MceFuncionDeCorrespondencia.png",
+    "FSD/C2.md",
+    "FSD/C2Ejemplo1.png",
+    "FSD/C2Ejemplo1.png",
+    "FSD/C2Ejemplo.png",
+    "Untitled 1.md",
+    "[C1.md",
+    "IC1/Unidad de memoria.md",
+    "FSD",
+    "IC1/MceFuncionamiento.png",
+    "IC1/Arquitectura Von Newman.md",
+    "EPED/ImplementarLIstasInsercion.png",
+    "EPED/ImplementarListasAccesoYModificacion.png",
+    "EPED/Lista.md",
+    "EPED/ImplementarListasConstructor.png",
+    "EPED/Colección.md",
     "SDK.md",
     "IC1/ROM.md",
     "Untitled 2.md",
     "Markdown.md",
-    "WEB/Web.md",
     "WEB/HTML5.md",
     "IC1/BusArbitrajeDistribuido.png",
     "POO/Array.md",
     "Pasted image 20230605163029.png.md",
     "Pasted image 20230605163002.png",
-    "Pasted image 20230605163029.png",
     "POO/Signatura o firma.md",
     "POO/Bucle.md",
     "POO/Diagrama.md",
     "POO/LIFO.md",
     "POO/Modularización.md",
     "POO/Objeto.md",
-    "POO/POO.md",
-    "Arb.md",
-    "AngularJS.md",
-    "Back End.md",
-    "BBDD.md",
-    "Condicional.md",
-    "WEB/EstructuraGeneralDeUnaWeb.png",
     "MOVILES",
-    "WEB/AlgoritmoScriptAumentarSueldo.png",
-    "WEB/AlgoritmoScriptCalculaMAyor3numeros.png",
     "IC1",
     "WEB",
     "Untitled.canvas",
