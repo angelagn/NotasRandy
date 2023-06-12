@@ -4,7 +4,7 @@
 	- Interrupción
 	- Acceso de [[Dispositivo de  Entrada-Salida]]
 
-
+[[Unidad de memoria]] [[Memoria Caché Mce]] [[ROM]]
 # Componentes básicos del sistema
 
 - CPU
@@ -61,7 +61,7 @@ El tiempo de ciclo de escritura es la suma del tiempo de ocupación del #Bus má
 
 
 ### Tipos de bus
-Los buses son el embudo en la velocidad de los pc
+Los buses son el embudo en la velocidad de los  pc (procesadores)
 La memoria principal está muy pegada a la CPU para que los datos lleguen más rápido
 
 	**Bus de Datos**: Es el camino que se usa para  transferir entre módulos

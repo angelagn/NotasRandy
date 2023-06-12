@@ -2,4 +2,4 @@ El término "SDK" significa "Software Development Kit" (Kit de Desarrollo de Sof
 
 En resumen, un SDK es un conjunto de herramientas y recursos que ayudan a los desarrolladores a crear software para una plataforma específica de manera más eficiente y efectiva
 
-[[Android Studio]]
+[[Android Studio]] [[Java]]

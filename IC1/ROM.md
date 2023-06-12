@@ -1,0 +1,1 @@
+[[Arquitectura Von Newman]] [[Memoria Caché Mce]]

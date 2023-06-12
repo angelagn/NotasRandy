@@ -3,7 +3,8 @@ Para implementar: [[Secuencia Implementar]]
 ## Lista
 Una #Lista es una [[Estructura Lineal]] que  son un tipo de [[Colección]] que hereda de la [[Interfaces]] collection, son una estructura de datos que respeta el orden en el cual fueron agregados los elementos, también permiten registros repetidos.
 -  Especialización de la secuencia
-- se accede y recorre los elementos, esto no destruye la lista
+- Recorrido NO destructivo: se accede y recorre los elementos, esto no destruye la lista
+- 
 
 identifica:
 
@@ -71,58 +72,14 @@ En general, las listas en comparación con los #Arrays  tienen las siguientes ve
 
 ### Desventajas
 
->- No tienen nocion de índice, por lo que no podemos hacer accesos aleatorios
+>- No tienen noción de índice, por lo que no podemos hacer accesos aleatorios
 >- Necesitan más espacio en memoria ya que necesitan almacenar los punteros
 
-## Operaciones con listas
 
-```python
-ESTRUCTURA libro 
-nombre = cadena[50] 
-autor = cadena[50] 
-isbn = cadena[10] 
-FIN ESTRUCTURA
+## Implementación de listas
 
-# lista de libros
-ESTRUCTURA lista
-cabeza = libro 
-cola = puntero a lista 
-FIN ESTRUCTURA
+![[ImplementarListasConstructor.png]]
 
-# guardar en una lista
-ESTRUCTURA nodo
-elemento = libro 
-siguiente = puntero a nodo 
-FIN ESTRUCTURA
+![[ImplementarListasAccesoYModificacion.png]]
 
-ESTRUCTURA lista
-cabeza = puntero a nodo 
-FIN ESTRUCTURA
-
-# crear un nodo
-FUNCION   crearNodo(L: libro) : Nodo
-Variable nuevoNodo :  Nodo 
-nuevoNodo.Elemento = L 
-nuevoNodo.Siguiente = Nulo # que no apunte a nada porque no sabemos a que apunta
-DEVOLVER nuevoNodo
-FIN FUNCION
-
-# recorrer una lista
-# empezando por el primer elemento y terminando por el último
-# en java no hay punteros pero un objeto apunta a una posición de memoria
-FUNCION   crearNodo(L: libro) : Nodo
-Variable nuevoNodo :  Nodo 
-nuevoNodo.Elemento = L 
-nuevoNodo.Siguiente = Nulo # que no apunte a nada porque no sabemos a que apunta
-DEVOLVER nuevoNodo
-FIN FUNCION
-
-FUNCION   RecorrerLista(L: lista)
-Variable Puntero :  Nodo 
-Puntero = L.cabeza 
-MIENTRAS (Puntero != Nulo){
-ProcesarElemento(Puntero.elemento)
-Puntero = puntero.siguiente
-}
-FIN FUNCION
- ``
+![[ImplementarLIstasInsercion.png]]

@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "bb79a56b63a5843a",
+            "id": "24361cfdb3950ed5",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "576a508633674cc2",
+            "id": "b9683d31b3274bb5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Memoria Caché Mce.md",
+                "file": "IC1/Memoria Caché Mce.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 206.5
+    "width": 385.5
   },
   "right": {
     "id": "926ac547aac18a3e",
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Memoria Caché Mce.md",
+                "file": "IC1/Memoria Caché Mce.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Memoria Caché Mce.md",
+                "file": "IC1/Memoria Caché Mce.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Memoria Caché Mce.md"
+                "file": "IC1/Memoria Caché Mce.md"
               }
             }
           }
@@ -159,19 +159,29 @@
       "daily-notes:Abrir la nota de hoy": false
     }
   },
-  "active": "576a508633674cc2",
+  "active": "8f355f8ea2770887",
   "lastOpenFiles": [
+    "MceFuncionDeCorrespondencia.png",
+    "MceFuncionamiento.png",
     "IC1/Arquitectura Von Newman.md",
-    "Memoria Caché Mce.md",
+    "ImplementarLIstasInsercion.png",
+    "ImplementarListasAccesoYModificacion.png",
+    "EPED/Lista.md",
+    "ImplementarListasConstructor.png",
+    "EPED/Colección.md",
+    "Unidad de memoria.md",
+    "IC1/Memoria Caché Mce.md",
+    "SDK.md",
+    "IC1/ROM.md",
+    "Untitled 2.md",
     "Markdown.md",
     "WEB/Web.md",
     "WEB/HTML5.md",
-    "BusArbitrajeDistribuido.png",
+    "IC1/BusArbitrajeDistribuido.png",
     "POO/Array.md",
     "Pasted image 20230605163029.png.md",
     "Pasted image 20230605163002.png",
     "Pasted image 20230605163029.png",
-    "Untitled 2.md",
     "POO/Signatura o firma.md",
     "POO/Bucle.md",
     "POO/Diagrama.md",
@@ -184,21 +194,11 @@
     "Back End.md",
     "BBDD.md",
     "Condicional.md",
-    "Estado.md",
-    "Git.md",
-    "GitHub.md",
-    "Humanismo.md",
-    "IDE.md",
-    "Java.md",
     "WEB/EstructuraGeneralDeUnaWeb.png",
     "MOVILES",
     "WEB/AlgoritmoScriptAumentarSueldo.png",
     "WEB/AlgoritmoScriptCalculaMAyor3numeros.png",
-    "WEB/AlgoritmoScriptCalcularNotaMedia.png",
     "IC1",
-    "Pasted image 20230531112358.png",
-    "MOVILES/CoserPantallasKotlin.png",
-    "EPED/SecuenciasClearYContains.png",
     "WEB",
     "Untitled.canvas",
     "POO",
