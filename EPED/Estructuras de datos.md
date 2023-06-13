@@ -1,3 +1,4 @@
+ES una herramienta para el diseño modular de programas
 [[Colección]]
 ## [[Estructura Lineal]]
 - Secuencias de datos
