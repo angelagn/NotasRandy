@@ -25,26 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EPED/Estructuras de datos.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a593e73218202ab0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "EPED/Lista.md",
+                "file": "IC1/Unidad Entrada y Salida.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -73,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "TAD",
+                "query": "memoria principal",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -110,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EPED/Lista.md",
+                "file": "IC1/Unidad Entrada y Salida.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EPED/Lista.md",
+                "file": "IC1/Unidad Entrada y Salida.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EPED/Lista.md"
+                "file": "IC1/Unidad Entrada y Salida.md"
               }
             }
           }
@@ -171,12 +159,19 @@
       "daily-notes:Abrir la nota de hoy": false
     }
   },
-  "active": "a593e73218202ab0",
+  "active": "8f355f8ea2770887",
   "lastOpenFiles": [
+    "IC1/InstruccionesESAislada.png",
+    "InstruccionesESEnMemoria.png",
+    "IC1/EstructuraDelControladorEntradaSalida.png",
+    "EPED/Estructuras de datos.md",
+    "MOVILES/Android Studio.md",
+    "IC1/Arquitectura Von Newman.md",
+    "IC1/Unidad Entrada y Salida.md",
+    "EPED/Lista.md",
     "EPED/TAD.md",
     "EPED/Colección.md",
     "Untitled.md",
-    "EPED/Estructuras de datos.md",
     "FSD/Magnitud + signo.md",
     "FSD/C1.md",
     "WEB/Web.md",
@@ -186,30 +181,23 @@
     "FSD/C2Ejemplo1.png",
     "FSD/C2Ejemplo1.png",
     "FSD/C2Ejemplo.png",
-    "Untitled 1.md",
     "[C1.md",
     "IC1/Unidad de memoria.md",
     "FSD",
     "IC1/MceFuncionamiento.png",
-    "IC1/Arquitectura Von Newman.md",
     "EPED/ImplementarLIstasInsercion.png",
     "EPED/ImplementarListasAccesoYModificacion.png",
-    "EPED/Lista.md",
     "EPED/ImplementarListasConstructor.png",
     "SDK.md",
     "IC1/ROM.md",
     "Untitled 2.md",
     "Markdown.md",
     "WEB/HTML5.md",
-    "IC1/BusArbitrajeDistribuido.png",
     "POO/Array.md",
     "Pasted image 20230605163029.png.md",
-    "Pasted image 20230605163002.png",
     "POO/Signatura o firma.md",
     "POO/Bucle.md",
     "POO/Diagrama.md",
-    "POO/LIFO.md",
-    "POO/Modularización.md",
     "MOVILES",
     "IC1",
     "WEB",

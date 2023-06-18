@@ -13,7 +13,7 @@
 	- Dos módulos (Registros)
 		- MAR próxima dirección de memoria
 		- MBR Contiene el dato a procesar
-- Memoria principal
+- Memoria principal (Mp)
 - Dispositivos E-S (tienen sus propios MAR y MBR )
 	- teclado
 	- mouse

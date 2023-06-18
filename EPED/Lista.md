@@ -17,7 +17,7 @@ identifica:
 	- lista = cabeza + resto (lista)
 - Punto de interés: las acciones se realizan con base en el puntero
 	- Puntero a una posición en la lista
-	- insercion, acceso y modificación a través del punteo
+	- inserción, acceso y modificación a través del punteo
 - Acceso por posición: cada elemento tiene una posición el acceso se hace en esa posición, se inserta en esa posición
 	- Consultar
 	- Modificar elementos existentes
@@ -32,11 +32,11 @@ identifica:
 ### Insertar elementos en una lista
 >- Lista vacía? el primer elemento es nulo, instanciar y asocial a nulo
 >- Insertar al principio? (prepend) Nuevo nodo, el siguiente apunta al primero y luego se actualiza el primero.
->- Insertar al final? (append) BUscar el último, y apuntar al nuevo nodo
->- Insertar en la mitad? Recorrer la lista con el puntero que apunta al elmento anterior del que necesito. 
+>- Insertar al final? (append) Buscar el último, y apuntar al nuevo nodo
+>- Insertar en la mitad? Recorrer la lista con el puntero que apunta al elemento anterior del que necesito. 
 
 ### Formas de recorrer una lista
-La mejor forma de recorrer un lista es con un #Bucle, recorre los elementos del primero al úiltimo , el último elemento apunta a #Null para que finalice el [[Bucle]] , la lista se va recorriendo con puntero
+La mejor forma de recorrer un lista es con un #Bucle, recorre los elementos del primero al último , el último elemento apunta a #Null para que finalice el [[Bucle]] , la lista se va recorriendo con puntero
 
 ### Eliminar elementos de una lista
 >- Eliminar primer elemento:  generar una variable temporal para guardar el elemento ya que no se puede cambiar el elemento de valor, entonces se libera memoria con una variable temporal
@@ -83,3 +83,7 @@ En general, las listas en comparación con los #Arrays  tienen las siguientes ve
 ![[ImplementarListasAccesoYModificacion.png]]
 
 ![[ImplementarLIstasInsercion.png]]
+
+UOC 
+aguzman172
+angelitA*#1

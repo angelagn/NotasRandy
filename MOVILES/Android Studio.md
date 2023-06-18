@@ -2,7 +2,7 @@ Estudio Autodidacta [https://developer.android.com/guide?hl=es-419](https://deve
 
 
 Es un [[IDE]]  programas para teléfonos, relojes inteligentes, coches, robots
-Es el programa oficial para desarrollar en android, tiene opciones para movil, smartwach, tv, carros
+Es el programa oficial para desarrollar en android, tiene opciones para móvil, smartwach, tv, carros
 [[GitHub]]
 
 >- En el mundo de los móviles la actividad son las pantallas
@@ -24,7 +24,7 @@ Es el programa oficial para desarrollar en android, tiene opciones para movil, s
 	- Drawdable: donde se guardan las imageners
 	- layout: para diseñar con el mouse (aqui trabajan los diseñadores)
 	- mitmap: iconos
-- Gradle Scripts: Los scripst de java 
+- Gradle Scripts: Los scripts de java 
 
 Si hay problema con el #SDK [[SDK]]
 
