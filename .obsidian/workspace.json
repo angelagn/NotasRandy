@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IC1/Unidad Entrada y Salida.md",
+                "file": "Interrupción.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IC1/Unidad Entrada y Salida.md",
+                "file": "Interrupción.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IC1/Unidad Entrada y Salida.md",
+                "file": "Interrupción.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IC1/Unidad Entrada y Salida.md"
+                "file": "Interrupción.md"
               }
             }
           }
@@ -159,15 +159,16 @@
       "daily-notes:Abrir la nota de hoy": false
     }
   },
-  "active": "8f355f8ea2770887",
+  "active": "48b4c31341820b77",
   "lastOpenFiles": [
+    "IC1/Unidad Entrada y Salida.md",
+    "Interrupción.md",
     "IC1/InstruccionesESAislada.png",
     "InstruccionesESEnMemoria.png",
     "IC1/EstructuraDelControladorEntradaSalida.png",
     "EPED/Estructuras de datos.md",
     "MOVILES/Android Studio.md",
     "IC1/Arquitectura Von Newman.md",
-    "IC1/Unidad Entrada y Salida.md",
     "EPED/Lista.md",
     "EPED/TAD.md",
     "EPED/Colección.md",
@@ -187,7 +188,6 @@
     "IC1/MceFuncionamiento.png",
     "EPED/ImplementarLIstasInsercion.png",
     "EPED/ImplementarListasAccesoYModificacion.png",
-    "EPED/ImplementarListasConstructor.png",
     "SDK.md",
     "IC1/ROM.md",
     "Untitled 2.md",

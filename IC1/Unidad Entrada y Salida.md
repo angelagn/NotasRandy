@@ -49,9 +49,13 @@ Los periféricos no van conectados directamente porque los formatos de datos son
 			![[InstruccionesESEnMemoria.png]]
 		- Aislada (Instrucciones especificas ==IN - OUT==)
 			![[InstruccionesESAislada.png]]
-1. E/S controlada por interrupciones
-2. Acceso directo a memoria
-3. Procesador E/S
+1. E/S controlada por interrupciones ([[Interrupción]])
+	- Inconvenientes de E/S por programa
+		- Pérdida de tiempo en bucle espera
+		- Algunos programas no permiten estar en bucle
+		- Si varios periféricos = muchos problemas
+1. Acceso directo a memoria
+2. Procesador E/S
 
 # Canal multiplexor
 La velocidad máxima para la E/S es la suma de las velocidades de cada dispositivo conectado
