@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Interrupción.md",
+                "file": "IC1/Interrupción.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "memoria principal",
+                "query": "softwa",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -98,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Interrupción.md",
+                "file": "IC1/Interrupción.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Interrupción.md",
+                "file": "IC1/Interrupción.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Interrupción.md"
+                "file": "IC1/Interrupción.md"
               }
             }
           }
@@ -159,12 +160,12 @@
       "daily-notes:Abrir la nota de hoy": false
     }
   },
-  "active": "48b4c31341820b77",
+  "active": "db14632e810dd951",
   "lastOpenFiles": [
     "IC1/Unidad Entrada y Salida.md",
-    "Interrupción.md",
+    "IC1/Interrupción.md",
     "IC1/InstruccionesESAislada.png",
-    "InstruccionesESEnMemoria.png",
+    "IC1/InstruccionesESEnMemoria.png",
     "IC1/EstructuraDelControladorEntradaSalida.png",
     "EPED/Estructuras de datos.md",
     "MOVILES/Android Studio.md",
