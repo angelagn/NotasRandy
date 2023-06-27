@@ -25,14 +25,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IC1/Interrupción.md",
+                "file": "Polimorfismo.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fa77e790dff17fe8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Encapsulamiento.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7889eccdbb617038",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CRUD.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -61,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "softwa",
+                "query": "objeto",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,8 +102,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -99,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IC1/Interrupción.md",
+                "file": "Encapsulamiento.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IC1/Interrupción.md",
+                "file": "Encapsulamiento.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IC1/Interrupción.md"
+                "file": "Encapsulamiento.md"
               }
             }
           }
@@ -160,16 +183,20 @@
       "daily-notes:Abrir la nota de hoy": false
     }
   },
-  "active": "db14632e810dd951",
+  "active": "fa77e790dff17fe8",
   "lastOpenFiles": [
-    "IC1/Unidad Entrada y Salida.md",
+    "CRUD.md",
+    "Encapsulamiento.md",
+    "Polimorfismo.md",
+    "Objetos.md",
     "IC1/Interrupción.md",
+    "IC1/Arquitectura Von Newman.md",
+    "IC1/Unidad Entrada y Salida.md",
     "IC1/InstruccionesESAislada.png",
     "IC1/InstruccionesESEnMemoria.png",
     "IC1/EstructuraDelControladorEntradaSalida.png",
     "EPED/Estructuras de datos.md",
     "MOVILES/Android Studio.md",
-    "IC1/Arquitectura Von Newman.md",
     "EPED/Lista.md",
     "EPED/TAD.md",
     "EPED/Colección.md",
@@ -195,10 +222,6 @@
     "Markdown.md",
     "WEB/HTML5.md",
     "POO/Array.md",
-    "Pasted image 20230605163029.png.md",
-    "POO/Signatura o firma.md",
-    "POO/Bucle.md",
-    "POO/Diagrama.md",
     "MOVILES",
     "IC1",
     "WEB",
