@@ -37,7 +37,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Encapsulamiento.md",
+                "file": "Metodologías ágiles.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6be31ba1283503c1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Telefonia móvil.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0b545dc86a9363af",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dispositivos móviles.md",
                 "mode": "source",
                 "source": false
               }
@@ -56,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -122,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Encapsulamiento.md",
+                "file": "Telefonia móvil.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Encapsulamiento.md",
+                "file": "Telefonia móvil.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Encapsulamiento.md"
+                "file": "Telefonia móvil.md"
               }
             }
           }
@@ -183,10 +207,16 @@
       "daily-notes:Abrir la nota de hoy": false
     }
   },
-  "active": "fa77e790dff17fe8",
+  "active": "6be31ba1283503c1",
   "lastOpenFiles": [
-    "CRUD.md",
+    "Dispositivos móviles.md",
+    "Telefonia móvil.md",
+    "Metodologías ágiles.md",
+    "MySQL.md",
+    "Stack Overflow.md",
+    "SDK.md",
     "Encapsulamiento.md",
+    "CRUD.md",
     "Polimorfismo.md",
     "Objetos.md",
     "IC1/Interrupción.md",
@@ -216,12 +246,6 @@
     "IC1/MceFuncionamiento.png",
     "EPED/ImplementarLIstasInsercion.png",
     "EPED/ImplementarListasAccesoYModificacion.png",
-    "SDK.md",
-    "IC1/ROM.md",
-    "Untitled 2.md",
-    "Markdown.md",
-    "WEB/HTML5.md",
-    "POO/Array.md",
     "MOVILES",
     "IC1",
     "WEB",
