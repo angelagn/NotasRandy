@@ -49,7 +49,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Telefonia móvil.md",
+                "file": "MOVILES/Telefonia móvil.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9f0ffff1fe6390f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MOVILES/Android Studio.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2134c45716bcba49",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Testing.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dispositivos móviles.md",
+                "file": "MOVILES/Dispositivos móviles.md",
                 "mode": "source",
                 "source": false
               }
@@ -80,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -146,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Telefonia móvil.md",
+                "file": "MOVILES/Android Studio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Telefonia móvil.md",
+                "file": "MOVILES/Android Studio.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Telefonia móvil.md"
+                "file": "MOVILES/Android Studio.md"
               }
             }
           }
@@ -207,10 +231,12 @@
       "daily-notes:Abrir la nota de hoy": false
     }
   },
-  "active": "6be31ba1283503c1",
+  "active": "9f0ffff1fe6390f1",
   "lastOpenFiles": [
-    "Dispositivos móviles.md",
-    "Telefonia móvil.md",
+    "MOVILES/Apps.md",
+    "Testing.md",
+    "MOVILES/Telefonia móvil.md",
+    "MOVILES/Dispositivos móviles.md",
     "Metodologías ágiles.md",
     "MySQL.md",
     "Stack Overflow.md",
@@ -240,8 +266,6 @@
     "FSD/C2Ejemplo1.png",
     "FSD/C2Ejemplo1.png",
     "FSD/C2Ejemplo.png",
-    "[C1.md",
-    "IC1/Unidad de memoria.md",
     "FSD",
     "IC1/MceFuncionamiento.png",
     "EPED/ImplementarLIstasInsercion.png",

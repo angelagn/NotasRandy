@@ -43,3 +43,34 @@ Genymotion: es una compañía que hace lo mismo que android estudio, se descarga
 
 
 https://www.genymotion.com/
+
+Kid de dllo  = SDK
+Entorno de Dllo  = IDE
+
+[[Dispositivos móviles]]
+
+# Android
+cada version de Android proporciona un nuvo nivel de la API
+Arquitectura de capas
+	hardware proveedores
+	Sistema opedrativo google
+	Apps desarrolladores
+
+
+El sistema operativo se basa en el núcleo de Linux (Kernel) y sobre este Android proporciona un entorno de ejecución. Además de programación en Java también se pueden introducir fragmentos de programa en C y C++. En la plataforma de desarrollo encontramos el kit Android Studio (SDK) y el entorno de desarrollo denominado ID.
+
+## Recursos para el dllo
+
+- Android Studio
+	- SDK (cod fuente, emuladores...)
+		- SDK Manager: herramient apara intalar componentes
+		- Componentes: conjunto de librerias de cierta versión
+		- Incorpora herramientas necesarias para el uso de emuladores
+		- Los emuladores es lo que llamamos dispositivos virtuales Android o AVD. Un AVD se define a partir de un dispositivo real. (se puede modificar el hardware en el emulador, quitar camara etc)
+		-  También si existen librerías adicionales instaladas, por ejemplo las necesarias para acceder a Google Play.
+		- Android SDK viene con un emulador en el que podemos probar la mayoría de nuestras aplicaciones. Podemos simular GPS, llamadas entrantes, salientes, SMS, entradas por la pantalla y el teclado, reproducción de audio y vídeo, y comunicaciones por red. Todos los tipos de aplicaciones están soportadas: widgets, servicios y actividades. Se pueden instalar y desinstalar como si de un móvil real se tratara.
+	- IDE
+		-  Proporciona difenetes funcionalidades para crear las apps
+		- es un editor de código especializado para Android, un editor visual para las interfaces gráficas de usuario. En este editor visual podemos diseñar las interfaces gráficas sin más que arrastrar componentes visuales sobre un lienzo de dibujo.
+	- No incorpora el kit nativo de dllo NDK (xa trabajar con fragmentos de cod en C Y C++) Se instala por separado
+	
