@@ -1,13 +1,13 @@
 Móviles
 1. Gestionar
-2. Capacidad procesamiento, memoria, bateria
+2. Capacidad procesamiento, memoria, batería
 3. plataforma que soporta la App
 4. Sensores a utilizar y que hacer en caso de que no se disponga de sensores
 5. Limitación del hardware
 6. CPU
 7. Memoria
 8. Almacenamiento
-9. Limitaciones: Duración de la bateria, comportamiento de la app cuando no está conectada, tener cuidado con el consumo de datos y la velocidad de la red, posicionamiento
+9. Limitaciones: Duración de la batería, comportamiento de la app cuando no está conectada, tener cuidado con el consumo de datos y la velocidad de la red, posicionamiento
 10. 
 
 
@@ -21,13 +21,13 @@ Móviles
 
 - Mantenimiento de la App
 - Actualizaciones
-- Núevas caracteristicas
+- Nuevas características
 - localización
 - Escalabilidad (en infraestructura) más idiomas
 
 # Publicación
 
-- Filtros de las tiendaws para publicar la app
+- Filtros de las tiendas para publicar la app
 - monetización
 - in-app building: distribuir la app de manera gratuita par luego vender caracteristicas
 
@@ -37,7 +37,7 @@ Móviles
 
 ## Roles del equipo
 
-- Prpductor
+- Productor
 - Diseñadores
 - Programador
 - Diseñador gŕafico
@@ -45,7 +45,7 @@ Móviles
 - Calidad
 - Localización (traducción a diferentes idiomas)
 - Testing
-- Marqueting
+- Marketing
 
 ## Desarrollo ágil
 
@@ -94,9 +94,10 @@ Estructura para una app en android, ya hay características predeterminadas
 
 ==OS X== es el sistema operativo e los ordenadores de apple
 
-IOS es un sistema operativo diseñado para dispositivos de pantalla táctil
+iOS es un sistema operativo diseñado para dispositivos de pantalla táctil
 Algunos ejemplos del tipo de librerías que encontramos en iOS son: edición de audio, integración de vídeo, aplicaciones de salud, inteligencia artificial, geolocalización o imagen en 3D.
 
 
 documento guía:  iOS human interface guidelines
 
+entorno iOS de llama xcode

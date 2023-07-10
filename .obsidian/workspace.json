@@ -61,7 +61,31 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "EPED/Colección.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e8e3bf7ae70e4c78",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "MOVILES/Apps.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "786944be851dc746",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Teoria Automatas.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -231,9 +255,12 @@
       "daily-notes:Abrir la nota de hoy": false
     }
   },
-  "active": "9f0ffff1fe6390f1",
+  "active": "e8e3bf7ae70e4c78",
   "lastOpenFiles": [
     "MOVILES/Android Studio.md",
+    "Teoria Automatas.md",
+    "Biestables.md",
+    "EPED/Colección.md",
     "MOVILES/Apps.md",
     "Testing.md",
     "MOVILES/Telefonia móvil.md",
@@ -255,14 +282,11 @@
     "EPED/Estructuras de datos.md",
     "EPED/Lista.md",
     "EPED/TAD.md",
-    "EPED/Colección.md",
     "Untitled.md",
     "FSD/Magnitud + signo.md",
     "FSD/C1.md",
     "WEB/Web.md",
-    "IC1/Memoria Caché Mce.md",
     "IC1/MceFuncionDeCorrespondencia.png",
-    "FSD/C2.md",
     "FSD/C2Ejemplo1.png",
     "FSD/C2Ejemplo1.png",
     "FSD/C2Ejemplo.png",
