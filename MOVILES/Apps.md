@@ -65,3 +65,27 @@ Móviles
 		- Dodificacion
 		- Testing
 
+
+
+# Estructura
+Estructura para una app en android, ya hay caracteristicas predenterminadas
+
+- Ficheros
+	-  Clase
+		- Componentes de al app (tareas cortas, no pasar un tiempo sin acciones)
+			 actividades
+			 Servicios
+			 Receptores de notificaciones
+		- Recursos (adaptación automática pantalla, idioma, imágenes)
+			- Descripciones del layout
+			- menús
+			- apariencia interfaz
+			- gráficos
+			- texto
+			- datos como xml
+		- Manifiesto (va en un fichero xml)
+			- nombre completo
+			- componentes, actividades servicios
+			- permisos
+			- librerías de código
+			- niveles mínimos de la app y android
