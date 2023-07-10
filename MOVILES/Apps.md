@@ -49,26 +49,26 @@ Móviles
 
 ## Desarrollo ágil
 
-- Documento con caracteristicas principales 1 a 3 págs, captuiras, maquetas
-- Preproducción - diseño
+- Documento con características principales 1 a 3 páginas, capturas, maquetas
+- Pre producción - diseño
 - Integridad del diseño
-- Produciión
-	- CAracteristicas básicas
+- Producción
+	- Características básicas
 - Testing
-	- diseño, funcionamiento, efiicicencia ==Puede llevar un tercio en el dllo==
+	- diseño, funcionamiento, eficiencia ==Puede llevar un tercio en el dllo==
 - Lanzamiento
 	- no puede fallas
 - Soporte 
-	- estensiones y mejoras en graficos, idiomas
+	- extensiones y mejoras en gráficos, idiomas
 	- Regla de los tercios
-		- Planificacion y diseño
-		- Dodificacion
+		- Planificación y diseño
+		- Codificación
 		- Testing
 
 
 
 # Estructura
-Estructura para una app en android, ya hay caracteristicas predenterminadas
+Estructura para una app en android, ya hay características predeterminadas
 
 - Ficheros
 	-  Clase
@@ -89,3 +89,14 @@ Estructura para una app en android, ya hay caracteristicas predenterminadas
 			- permisos
 			- librerías de código
 			- niveles mínimos de la app y android
+
+# Plataforma de desarrollo iOS
+
+==OS X== es el sistema operativo e los ordenadores de apple
+
+IOS es un sistema operativo diseñado para dispositivos de pantalla táctil
+Algunos ejemplos del tipo de librerías que encontramos en iOS son: edición de audio, integración de vídeo, aplicaciones de salud, inteligencia artificial, geolocalización o imagen en 3D.
+
+
+documento guía:  iOS human interface guidelines
+
