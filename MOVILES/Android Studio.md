@@ -21,7 +21,7 @@ Es el programa oficial para desarrollar en android, tiene opciones para móvil, 
 - Manifest: permisos de Internet y otros permisos de la app
 - Java: contiene el nombre de mi proyecto y  main activity, 
 - en res (recursos) viene:
-	- Drawdable: donde se guardan las imageners
+	- Drawdable: donde se guardan las imagenes
 	- layout: para diseñar con el mouse (aqui trabajan los diseñadores)
 	- mitmap: iconos
 - Gradle Scripts: Los scripts de java 

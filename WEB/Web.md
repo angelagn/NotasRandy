@@ -107,3 +107,17 @@ https://www.autodraw.com/
 
 https://quickdraw.withgoogle.com/
 
+
+
+# Desarrollo Web
+[[HTML5]]  lenguaje de etiquetas, el «!DOCTYPE» indica que HTML estoy usando
+[[CSS]]3 ultimo estándar para estilos
+[[JavaScript]] es el último componente para crear una pagina
+[[AngularJS]]  Permite patrones de diseño
+MaterializeCSS framework como angular
+
+# Desarrollo multiplataforma para móviles
+#AppHibrida ES un paquete web para su consumo y publicación desde los stores y se dlla con html javascript y css
+==PhoneGap==
+==Apache Cordoba== Servicios en la nube
+

@@ -49,43 +49,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MOVILES/Telefonia móvil.md",
+                "file": "WEB/Web.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "9f0ffff1fe6390f1",
+            "id": "297e3632298c4acc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EPED/Colección.md",
+                "file": "Realidad Aumentada.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "e8e3bf7ae70e4c78",
+            "id": "6aa2337e16cd449e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MOVILES/Apps.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "786944be851dc746",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Teoria Automatas.md",
+                "file": "Angular JS.md",
                 "mode": "source",
                 "source": false
               }
@@ -128,7 +116,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -157,7 +145,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "objeto",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -194,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MOVILES/Apps.md",
+                "file": "Realidad Aumentada.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MOVILES/Apps.md",
+                "file": "Realidad Aumentada.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -234,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MOVILES/Apps.md"
+                "file": "Realidad Aumentada.md"
               }
             }
           }
@@ -255,15 +243,18 @@
       "daily-notes:Abrir la nota de hoy": false
     }
   },
-  "active": "e8e3bf7ae70e4c78",
+  "active": "297e3632298c4acc",
   "lastOpenFiles": [
+    "WEB/Web.md",
+    "Realidad Aumentada.md",
+    "Angular JS.md",
     "MOVILES/Android Studio.md",
+    "MOVILES/Telefonia móvil.md",
     "Teoria Automatas.md",
-    "Biestables.md",
     "EPED/Colección.md",
     "MOVILES/Apps.md",
+    "Biestables.md",
     "Testing.md",
-    "MOVILES/Telefonia móvil.md",
     "MOVILES/Dispositivos móviles.md",
     "Metodologías ágiles.md",
     "MySQL.md",
@@ -283,9 +274,6 @@
     "EPED/Lista.md",
     "EPED/TAD.md",
     "Untitled.md",
-    "FSD/Magnitud + signo.md",
-    "FSD/C1.md",
-    "WEB/Web.md",
     "IC1/MceFuncionDeCorrespondencia.png",
     "FSD/C2Ejemplo1.png",
     "FSD/C2Ejemplo1.png",
