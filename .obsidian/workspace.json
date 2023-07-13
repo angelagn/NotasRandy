@@ -56,60 +56,12 @@
             }
           },
           {
-            "id": "297e3632298c4acc",
+            "id": "9639d11618e2e177",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Realidad Aumentada.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6aa2337e16cd449e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Angular JS.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2134c45716bcba49",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Testing.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0b545dc86a9363af",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MOVILES/Dispositivos móviles.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7889eccdbb617038",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CRUD.md",
+                "file": "Cloud Computing.md",
                 "mode": "source",
                 "source": false
               }
@@ -182,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Realidad Aumentada.md",
+                "file": "Cloud Computing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Realidad Aumentada.md",
+                "file": "Cloud Computing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Realidad Aumentada.md"
+                "file": "Cloud Computing.md"
               }
             }
           }
@@ -243,19 +195,20 @@
       "daily-notes:Abrir la nota de hoy": false
     }
   },
-  "active": "297e3632298c4acc",
+  "active": "9639d11618e2e177",
   "lastOpenFiles": [
-    "WEB/Web.md",
+    "MOVILES/Apps.md",
+    "Cloud Computing.md",
+    "MOVILES/Telefonia móvil.md",
+    "MOVILES/Dispositivos móviles.md",
     "Realidad Aumentada.md",
+    "WEB/Web.md",
     "Angular JS.md",
     "MOVILES/Android Studio.md",
-    "MOVILES/Telefonia móvil.md",
     "Teoria Automatas.md",
     "EPED/Colección.md",
-    "MOVILES/Apps.md",
     "Biestables.md",
     "Testing.md",
-    "MOVILES/Dispositivos móviles.md",
     "Metodologías ágiles.md",
     "MySQL.md",
     "Stack Overflow.md",
@@ -273,7 +226,6 @@
     "EPED/Estructuras de datos.md",
     "EPED/Lista.md",
     "EPED/TAD.md",
-    "Untitled.md",
     "IC1/MceFuncionDeCorrespondencia.png",
     "FSD/C2Ejemplo1.png",
     "FSD/C2Ejemplo1.png",

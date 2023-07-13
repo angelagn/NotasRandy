@@ -15,6 +15,7 @@ Móviles
 
 - En dispositivos
 - En emuladores (carece de sensores)
+- Público objetivo (necesidades)
 
 
 # Evolución
@@ -29,7 +30,52 @@ Móviles
 
 - Filtros de las tiendas para publicar la app
 - monetización
-- in-app building: distribuir la app de manera gratuita par luego vender caracteristicas
+- in-app building: distribuir la app de manera gratuita par luego vender características
+- Modelo de negocio 
+	- publicidad: numero de visualizaciones, numero de clics quitar la publicidad
+	- Pago por descarga
+	- Modelo premium
+	- Modelo Freemium (Eliminación de límites)
+- Analizar apps similares
+- Elegir tienda de apps a focalizar
+
+### Análisis de usuarios
+
+-  Experiencia de usuario
+	- Prototipos
+		-Feedback del usuario
+		Test A/B dos tipos de apps para ponerlas a prueba
+		ASO app store Optimization
+		Icono llamativo
+		Buena descripción
+		Screenshots llamativas
+		Valoraciones
+		Actualizaciones periódicas
+		Social Media (Recompensas, logros)
+		Gamificacion
+			. facilita tareas monótonas
+#### Comercialización
+
+- No abandonar la App, mejorar a través de la recopilación de datos
+	- Estadísticas
+	- Ingresos
+	- Valoraciones
+	- Errores
+	- Segmentación
+		- Dispositivo
+		- País
+		- Version de SO
+
+#### Herramientas en la nube
+- Azure
+- Amazon Webservices
+- Adobe ()MObile
+- UNity (unity analiticas, mapas de calor)
+- Recopilacion de datos 
+- Google analytics
+- Localytics
+- FLurry
+- 
 
 
 
@@ -101,3 +147,52 @@ Algunos ejemplos del tipo de librerías que encontramos en iOS son: edición de 
 documento guía:  iOS human interface guidelines
 
 entorno iOS de llama xcode
+
+
+## Apps de salud
+Ofrecen info sobre un tema en salud al paciente
+facilitan herramientas de tto
+
+### Tipos
+
+- Salud
+	- Trotar
+	- medición cardíaca orientativa
+- Bienestar
+- Medicina
+	- Dispositivos médicos
+
+
+
+### Tipos de usuarios
+- Paciente
+- Cuidador
+- Conexión medico paciente
+
+Barreras:
+
+Contenido supervisado por profesionales
+certificar las apps de salud
+Mayores de 60 años
+
+Seguridad: 
+
+Protocolos de seguridad para la info de usuarios
+Comunicaciones deben estar cifradas
+Nadie puede acceder a los datos
+
+Dispositivos:
+
+El smartphone no cuenta con algunos sensores especializacos, se están creando dispositivos compatibles para conectar al móvil
+
+
+# Proyecto de dllo de una App
+
+- Análisis crítico de la idea
+	- Búsqueda en profundidad
+	- Documentarnos
+	- Taamaño del mercado
+	- potencial margen de beneficios
+	- Conocer límites técnicos
+- Dllar las ideas rápidamente
+- 
